@@ -14,3 +14,8 @@
 * Remote desktop - App store
 
 # Development environment
+
+## Java
+* JDK11
+** brew cask info java
+** brew cask install java
