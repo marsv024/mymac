@@ -11,5 +11,6 @@
 * Postman - https://www.getpostman.com/
 * Sublime Text - https://www.sublimetext.com/
 * iTerm2 - https://www.iterm2.com/
+* Remote desktop - App store
 
 # Development environment
