@@ -17,5 +17,5 @@
 
 ## Java
 * JDK11
-** brew cask info java
-** brew cask install java
+  * brew cask info java
+  * brew cask install java
