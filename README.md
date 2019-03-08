@@ -19,3 +19,7 @@
 * JDK11
   * brew cask info java
   * brew cask install java
+  
+* Other versions
+  * brew tap AdoptOpenJDK/openjdk
+  * brew cask install adoptopenjdk8 adoptopenjdk9 adoptopenjdk10
