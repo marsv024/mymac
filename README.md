@@ -23,3 +23,9 @@
 * Other versions
   * brew tap AdoptOpenJDK/openjdk
   * brew cask install adoptopenjdk8 adoptopenjdk9 adoptopenjdk10
+
+## Maven
+* brew install maven
+
+## Other
+* brew install md5sha1sum
