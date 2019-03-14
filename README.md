@@ -29,3 +29,5 @@
 
 ## Other
 * brew install md5sha1sum
+* brew install bash-completion
+
