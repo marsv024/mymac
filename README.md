@@ -27,7 +27,11 @@
 ## Maven
 * brew install maven
 
+## Git
+* brew install git-flow
+
 ## Other
 * brew install md5sha1sum
 * brew install bash-completion
+* brew install ansible
 
