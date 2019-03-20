@@ -12,6 +12,7 @@
 * Sublime Text - https://www.sublimetext.com/
 * iTerm2 - https://www.iterm2.com/
 * Remote desktop - App store
+* The unarchiver - App store
 
 # Development environment
 
@@ -34,4 +35,7 @@
 * brew install md5sha1sum
 * brew install bash-completion
 * brew install ansible
+* brew install gnu-tar
+
+## Angular
 
