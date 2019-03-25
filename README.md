@@ -28,7 +28,7 @@
 * Hotswap
   * cd /Library/Java/JavaVirtualMachines
   * cp -rf adoptopenjdk-8.jdk hotswapjdk-8.jdk
-  * Follow guide on http://hotswapagent.org/mydoc_quickstart.html to install hotswap agent into this one
+  * Follow guide on http://hotswapagent.org/mydoc_quickstart.html to install hotswap agent into this one. Use latest DCEVM patch and hotswap agent 1.1.0-SNAPSHOT
   * Using alias in .bash_profile switch to hotswap8 agent when needed
 
 
