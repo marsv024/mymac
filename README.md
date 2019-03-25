@@ -25,6 +25,13 @@
   * brew tap AdoptOpenJDK/openjdk
   * brew cask install adoptopenjdk8 adoptopenjdk9 adoptopenjdk10
 
+* Hotswap
+  * cd /Library/Java/JavaVirtualMachines
+  * cp -rf adoptopenjdk-8.jdk hotswapjdk-8.jdk
+  * Follow guide on http://hotswapagent.org/mydoc_quickstart.html to install hotswap agent into this one
+  * Using alias in .bash_profile switch to hotswap8 agent when needed
+
+
 ## Maven
 * brew install maven
 
