@@ -45,4 +45,6 @@
 * brew install gnu-tar
 
 ## Angular
-
+* brew install nvm
+* mkdir ~/.nvm
+* nvm install 11
