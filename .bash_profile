@@ -1,5 +1,5 @@
 export editor=vim
-export PATH="$PATH:~/bin"
+export PATH="$PATH:~/bin:~/Library/Python/3.7/bin"
 export COPYFILE_DISABLE=true
 
 . ~/.fancy_prompt
