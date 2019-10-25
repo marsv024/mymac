@@ -48,3 +48,7 @@
 * brew install nvm
 * mkdir ~/.nvm
 * nvm install 11
+
+## Docker
+Install docker desktop
+Configure it using this guide: https://markshust.com/2017/03/02/making-docker-mac-faster-overlay2-filesystem/
