@@ -48,6 +48,8 @@
 * brew install nvm
 * mkdir ~/.nvm
 * nvm install 11
+### Upgrade
+* brew upgrade nvm
 
 ## Docker
 Install docker desktop
