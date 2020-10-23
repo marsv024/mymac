@@ -1,5 +1,5 @@
 export editor=vim
-export PATH="$PATH:~/bin:~/Library/Python/3.7/bin"
+export PATH="$PATH:~/bin:~/Library/Python/3.8/bin"
 export COPYFILE_DISABLE=true
 
 . ~/.fancy_prompt
@@ -15,11 +15,13 @@ export JAVA_8_HOME=$(/usr/libexec/java_home -v1.8)
 export JAVA_9_HOME=$(/usr/libexec/java_home -v9)
 export JAVA_10_HOME=$(/usr/libexec/java_home -v10)
 export JAVA_11_HOME=$(/usr/libexec/java_home -v11)
+export JAVA_14_HOME=$(/usr/libexec/java_home -v14)
 export HOTSWAP_8_HOME="/Library/Java/JavaVirtualMachines/hotswapjdk-8.jdk/Contents/Home"
 alias java8='export JAVA_HOME=$JAVA_8_HOME'
 alias java9='export JAVA_HOME=$JAVA_9_HOME'
 alias java10='export JAVA_HOME=$JAVA_10_HOME'
 alias java11='export JAVA_HOME=$JAVA_11_HOME'
+alias java14='export JAVA_HOME=$JAVA_14_HOME'
 alias hotswap8='export JAVA_HOME=$HOTSWAP_8_HOME'
 
 # default to Java 11
